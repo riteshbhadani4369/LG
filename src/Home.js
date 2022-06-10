@@ -489,29 +489,6 @@ function Home() {
                     </Col>
                 </Row>
 
-                <Row>
-                    <Col className="my-5" lg={12} md={12} sm={12} align="center">
-                        <h1>Life’s Good! Social Feed</h1>
-                    </Col>
-                    <Col>
-
-                        <main id="carousel">
-                            <div class="item"></div>
-                            <div class="item"></div>
-                            <div class="item"></div>
-                            <div class="item"></div>
-                            <div class="item"></div>
-                        </main>
-                        <div className="caro">
-                            <input type="radio" name="position" checked />
-                            <input type="radio" name="position" />
-                            <input type="radio" name="position" />
-                            <input type="radio" name="position" />
-                            <input type="radio" name="position" />
-                        </div>
-                    </Col>
-                </Row>
-
                 <Row className='my-5 container' align="center">
                     <Col lg={12} md={12} sm={12} className='product_Service mb-5'>
                         <h2>LG Product Service and Support</h2>

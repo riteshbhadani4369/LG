@@ -1053,3 +1053,6 @@ ul {
       display: flex;
       justify-content: center;
   }
+  .navbar-light .navbar-toggler {
+    margin-bottom: 15px;
+}
